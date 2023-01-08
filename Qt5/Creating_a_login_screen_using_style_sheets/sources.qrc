@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>shutdown.pro</file>
+        <file>restart.pro</file>
+    </qresource>
+    <qresource prefix="/logo.pro">
+        <file>apple.pro</file>
+        <file>Apple-Logo-PNG-Photos.pro</file>
+    </qresource>
+</RCC>

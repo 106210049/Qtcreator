@@ -1,0 +1,5 @@
+D:/Qt5/build-Basic_style_sheet_customization-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Basic_style_sheet_customization.dir
+D:/Qt5/build-Basic_style_sheet_customization-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/Qt5/build-Basic_style_sheet_customization-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Qt5/build-Basic_style_sheet_customization-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Basic_style_sheet_customization_autogen_timestamp_deps.dir
+D:/Qt5/build-Basic_style_sheet_customization-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Basic_style_sheet_customization_autogen.dir
